@@ -1,0 +1,1314 @@
+{
+    "racks": [
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082312-49",
+            "label": "P45",
+            "position": {
+                "left": 77.05,
+                "top": 43.28
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES P45"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082315-54",
+            "label": "G40",
+            "position": {
+                "left": 68.9199,
+                "top": 20.18276529562982
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES G40"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082304-42",
+            "label": "A'35",
+            "position": {
+                "left": 60.62,
+                "top": 68.88
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE A'35"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082314-53",
+            "label": "I49",
+            "position": {
+                "left": 83.7188,
+                "top": 26.827165295629822
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES I49"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1578414815589",
+            "label": "F'17",
+            "position": {
+                "left": 32.68,
+                "top": 78.12
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE F'17"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082271-13",
+            "label": "V5",
+            "position": {
+                "left": 14.2,
+                "top": 54.9
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": true,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES V5"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082277-20",
+            "label": "X15",
+            "position": {
+                "left": 29.45,
+                "top": 61.85
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE X15"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082296-36",
+            "label": "F'39",
+            "position": {
+                "left": 67.18,
+                "top": 78.12
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'39"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082274-16",
+            "label": "A'12",
+            "position": {
+                "left": 24.51,
+                "top": 68.82
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES A'12"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1572567725946",
+            "label": "B40",
+            "position": {
+                "left": 67.7317,
+                "top": 10.81066940874036
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES B40"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082272-14",
+            "label": "A'6",
+            "position": {
+                "left": 14.64,
+                "top": 68.82
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES A'6"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082293-33",
+            "label": "F'29",
+            "position": {
+                "left": 50.35,
+                "top": 78.1
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE F'29"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1578416384966",
+            "label": "X43",
+            "position": {
+                "left": 72.11,
+                "top": 61.91
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES X43"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082278-21",
+            "label": "V17",
+            "position": {
+                "left": 33.16,
+                "top": 54.9
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": true,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES V17"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1572392387636",
+            "label": "B46",
+            "position": {
+                "left": 78.6756,
+                "top": 10.6859
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE B46"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082263-4",
+            "label": "H8",
+            "position": {
+                "left": 16.270991986062718,
+                "top": 22.399
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES H8"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082280-23",
+            "label": "V25",
+            "position": {
+                "left": 44.21,
+                "top": 54.9
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": true,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES V25"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082265-7",
+            "label": "J11",
+            "position": {
+                "left": 21.22,
+                "top": 29.34
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES J11"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1572390540979",
+            "label": "C13",
+            "position": {
+                "left": 24.5152,
+                "top": 13.1
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES C13"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082286-28",
+            "label": "A'23",
+            "position": {
+                "left": 40.91,
+                "top": 68.84
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES A'23"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082277-19",
+            "label": "F'13",
+            "position": {
+                "left": 25.79,
+                "top": 78.14
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'13"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082263-5",
+            "label": "H14",
+            "position": {
+                "left": 26.13,
+                "top": 22.44
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES H14"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082268-10",
+            "label": "Q8",
+            "position": {
+                "left": 17.93,
+                "top": 45.573991666666664
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES Q8"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082283-25",
+            "label": "X26",
+            "position": {
+                "left": 45.86,
+                "top": 61.89
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE X26"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082305-43",
+            "label": "A'41",
+            "position": {
+                "left": 70.46,
+                "top": 68.82
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES A'41"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082269-11",
+            "label": "Q14",
+            "position": {
+                "left": 27.76,
+                "top": 45.58
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES Q14"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082318-61",
+            "label": "X49",
+            "position": {
+                "left": 81.94,
+                "top": 61.9
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES X49"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082264-6",
+            "label": "J5",
+            "position": {
+                "left": 11.35,
+                "top": 29.35
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES J5"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082285-27",
+            "label": "A'19",
+            "position": {
+                "left": 34.35,
+                "top": 68.81
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE A'19"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082270-12",
+            "label": "Q16",
+            "position": {
+                "left": 32.65,
+                "top": 45.57
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES Q16"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082317-60",
+            "label": "ENCRIPTORES",
+            "position": {
+                "left": "91.79",
+                "top": "2.72"
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "ENCRIPTORES"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082313-51",
+            "label": "N42",
+            "position": {
+                "left": "72.17",
+                "top": "36.32"
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES N42"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082266-8",
+            "label": "N5",
+            "position": {
+                "left": 11.75,
+                "top": 36.33
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES N5"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082307-44",
+            "label": "A'46",
+            "position": {
+                "left": 77.02,
+                "top": 68.87
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES A'46"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082312-48",
+            "label": "U48",
+            "position": {
+                "left": 81.97,
+                "top": 52.56
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": true,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE U48"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082315-55",
+            "label": "G46",
+            "position": {
+                "left": 78.7598,
+                "top": 20.054722365038558
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES G46"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082295-35",
+            "label": "F'35",
+            "position": {
+                "left": 60.62,
+                "top": 78.15
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'35"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082309-46",
+            "label": "U40",
+            "position": {
+                "left": "68.82",
+                "top": 52.4
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES U40"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082310-47",
+            "label": "U44",
+            "position": {
+                "left": 75.39,
+                "top": 52.57
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": true,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES U44"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082267-9",
+            "label": "SERVIDORES  N11",
+            "position": {
+                "left": 19.23,
+                "top": 36.29
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES  N11"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082279-22",
+            "label": "V21",
+            "position": {
+                "left": 37.61,
+                "top": 54.9
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": true,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES V21"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082292-32",
+            "label": "F'26",
+            "position": {
+                "left": 46.64,
+                "top": 78.13
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'26"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082298-38",
+            "label": "F'45",
+            "position": {
+                "left": 77.02,
+                "top": 78.12
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE F'45"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082294-34",
+            "label": "F'31",
+            "position": {
+                "left": 54.6212,
+                "top": 78.1221
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE F'31"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082276-18",
+            "label": "F'10",
+            "position": {
+                "left": 20.54,
+                "top": 78.11
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'10"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082297-37",
+            "label": "F'42",
+            "position": {
+                "left": 72.12,
+                "top": 78.13
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'42"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082284-26",
+            "label": "X32",
+            "position": {
+                "left": 55.71,
+                "top": 61.82
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES X32"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1572390549645",
+            "label": "C16",
+            "position": {
+                "left": 29.43,
+                "top": 13.11
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES C16"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082298-39",
+            "label": "F'48",
+            "position": {
+                "left": 80.32,
+                "top": 78.16
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'48"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082281-24",
+            "label": "X21",
+            "position": {
+                "left": 38.04,
+                "top": 61.87
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES X21"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1578414789132",
+            "label": "F'15",
+            "position": {
+                "left": 29.37,
+                "top": 78.16
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'15"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1572390523452",
+            "label": "C10",
+            "position": {
+                "left": "19.40",
+                "top": "13.08"
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": "Casa de Bolsa",
+            "name": "SERVIDORES C10"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082275-17",
+            "label": "F'6",
+            "position": {
+                "left": 14.64,
+                "top": 78.14
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'6"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082273-15",
+            "label": "X9",
+            "position": {
+                "left": 19.58,
+                "top": 61.84
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES X9"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082308-45",
+            "label": "X50",
+            "position": {
+                "left": 83.6,
+                "top": 61.88
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "COMUNICACIONES X50"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082302-41",
+            "label": "X38",
+            "position": {
+                "left": 65.55,
+                "top": 61.86
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES X38"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082314-52",
+            "label": "I43",
+            "position": {
+                "left": 73.43,
+                "top": 26.95713470437018
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE I43"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1572461602732",
+            "label": "B49",
+            "position": {
+                "left": 83.55199198606272,
+                "top": 10.6842
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE B49"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082313-50",
+            "label": "N48",
+            "position": {
+                "left": 81.98,
+                "top": 36.31
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "STORAGE N48"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082291-31",
+            "label": "F'23",
+            "position": {
+                "left": 41.72,
+                "top": "78.15"
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'23"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082289-30",
+            "label": "F'20",
+            "position": {
+                "left": 36.78919198606272,
+                "top": 78.12113470437018
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES F'20"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1573759082287-29",
+            "label": "A'29",
+            "position": {
+                "left": 50.78,
+                "top": 68.82
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {},
+                "middle": {}
+            },
+            "subsite": null,
+            "name": "SERVIDORES A'29"
+        },
+        {
+            "parent": "sistemas:1572365660711",
+            "id": "equipos:1572365708065",
+            "label": "C7",
+            "position": {
+                "left": "14.54",
+                "top": "12.72"
+            },
+            "size": "small",
+            "direction": "vertical",
+            "bottom": false,
+            "sensors": {
+                "top": {
+                    "temperature": {
+                        "id": "1585679980751-1a7e",
+                        "deviceId": "1568044052-d73a"
+                    }
+                },
+                "middle": {
+                    "temperature": {
+                        "id": "1585680031776-d0dd",
+                        "deviceId": "1568044052-d73a"
+                    }
+                }
+            },
+            "subsite": "Casa de Bolsa",
+            "name": "SERVIDORES C7"
+        }
+    ],
+    "ucs": [
+        {
+            "parent": "sistemas:1579115624923",
+            "id": "equipos:1579116868972",
+            "label": "C12",
+            "label_align": "top",
+            "position": {
+                "left": "98.42",
+                "top": "20.09"
+            },
+            "size": "small",
+            "direction": "vertical",
+            "fans": [
+                {
+                    "parent": "equipos:1579116868972",
+                    "id": "componentes:1581267257040",
+                    "type": "FAN",
+                    "component_number": 2,
+                    "alarmsSensorsIds": [
+                        "1581262415-44zy",
+                        "1581262415-rx2r",
+                        "1581262415-nwln",
+                        "1581262415-1n73",
+                        "1581262415-he1i",
+                        "1581262415-048e",
+                        "1581262415-ze5g"
+                    ],
+                    "speedSensorId": "1581262415-6djy",
+                    "currentsSensorsIds": [
+                        "1581262415-3sd3"
+                    ],
+                    "speedSensorRpmId": "1581262415-tofz"
+                },
+                {
+                    "parent": "equipos:1579116868972",
+                    "id": "componentes:1581267246132",
+                    "type": "FAN",
+                    "component_number": 1,
+                    "alarmsSensorsIds": [
+                        "1581262415-fczz",
+                        "1581262415-wdc6",
+                        "1581262415-jxwr",
+                        "1581262415-lcmc",
+                        "1581262415-h6qa",
+                        "1581262415-lf6h",
+                        "1581262415-cjv6"
+                    ],
+                    "speedSensorId": "1581262415-3u69",
+                    "currentsSensorsIds": [
+                        "1581262415-2e5e"
+                    ],
+                    "speedSensorRpmId": "1581262415-w6ex"
+                },
+                {
+                    "parent": "equipos:1579116868972",
+                    "id": "componentes:1581267268000",
+                    "type": "FAN",
+                    "component_number": 3,
+                    "alarmsSensorsIds": [
+                        "1581262415-ljg0",
+                        "1581262415-d48l",
+                        "1581262415-kxpy",
+                        "1581262415-ja7o",
+                        "1581262415-fybj",
+                        "1581262415-pqge",
+                        "1581262415-zj6n"
+                    ],
+                    "speedSensorId": "1581262415-cqcf",
+                    "currentsSensorsIds": [
+                        "1581262415-si46"
+                    ],
+                    "speedSensorRpmId": "1581262415-6p50"
+                }
+            ],
+            "equipment_number": 12,
+            "pump": {
+                "parent": "equipos:1579116868972",
+                "id": "componentes:1581267279344",
+                "type": "BOMBA",
+                "alarmsSensorsIds": [],
+                "runningSensorId": "1581262415-j3kw",
+                "currentsSensorsIds": []
+            }
+        }
+    ],
+    "cracs": [
+        {
+            "parent": "sistemas:1579115624923",
+            "id": "equipos:1579116831109",
+            "label": "AA12",
+            "label_align": "top",
+            "position": {
+                "left": "94.18",
+                "top": "17.98"
+            },
+            "size": "small",
+            "direction": "vertical",
+            "compressors": [
+                {
+                    "parent": "equipos:1579116831109",
+                    "id": "componentes:1581265010254",
+                    "type": "COMPRESOR",
+                    "component_number": 2,
+                    "alarmsSensorsIds": [
+                        "1581450344-lzgb3",
+                        "1581450344-flh1y",
+                        "1581450344-i7yxq"
+                    ],
+                    "runningSensorId": "1581450344-wji17",
+                    "currentsSensorsIds": []
+                },
+                {
+                    "parent": "equipos:1579116831109",
+                    "id": "componentes:1581264996648",
+                    "type": "COMPRESOR",
+                    "component_number": 1,
+                    "alarmsSensorsIds": [
+                        "1581450344-715eh",
+                        "1581450344-zjgsq",
+                        "1581450344-e1pai"
+                    ],
+                    "runningSensorId": "1581450344-b436h",
+                    "currentsSensorsIds": []
+                }
+            ],
+            "fans": [
+                {
+                    "parent": "equipos:1579116831109",
+                    "id": "componentes:1581265029637",
+                    "type": "FAN",
+                    "component_number": 1,
+                    "alarmsSensorsIds": [
+                        "1581450344-av6hr"
+                    ],
+                    "speedSensorId": "1581450344-hg2ta",
+                    "currentsSensorsIds": []
+                },
+                {
+                    "parent": "equipos:1579116831109",
+                    "id": "componentes:1581265054008",
+                    "type": "FAN",
+                    "component_number": 3,
+                    "alarmsSensorsIds": [
+                        "1581450344-l7bje"
+                    ],
+                    "speedSensorId": "1581450344-cmj9c",
+                    "currentsSensorsIds": []
+                },
+                {
+                    "parent": "equipos:1579116831109",
+                    "id": "componentes:1581265042627",
+                    "type": "FAN",
+                    "component_number": 2,
+                    "alarmsSensorsIds": [
+                        "1581450344-y97fx"
+                    ],
+                    "speedSensorId": "1581450344-emdpz",
+                    "currentsSensorsIds": []
+                }
+            ],
+            "equipment_number": 12,
+            "returnTemperatureSensorId": "1581450344-qrhun",
+            "returnHumiditySensorId": "1581450344-lyvw2"
+        }
+    ],
+    "upss": [],
+    "version": 1664822219309
+}
